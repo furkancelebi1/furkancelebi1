@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan Çelebi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400px" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/7furkancelebi" target="blank"><img src="https://img.shields.io/twitter/follow/7furkancelebi?logo=twitter&style=for-the-badge" alt="7furkancelebi" /></a> </p>
