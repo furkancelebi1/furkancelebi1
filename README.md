@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/7furkancelebi" target="blank"><img src="https://img.shields.io/twitter/follow/7furkancelebi?logo=twitter&style=for-the-badge" alt="7furkancelebi" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,React**
+- 🌱 I’m currently learning **JavaScript,nodejs**
 
 - 💬 Ask me about **HTML,CSS**
 
