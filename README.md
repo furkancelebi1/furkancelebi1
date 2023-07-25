@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript,nodejs**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,C#,MYSQL**
 
 - 📫 How to reach me **ffurkancelebi@gmail.com**
 
